@@ -7,3 +7,19 @@
 تگ body : در این تگ، محتوای اصلی صفحه (مثل متن، تصاویر، و ...) قرار می‌گیرد
 
 تگ title: این تگ عنوان (Title) صفحه را تعیین می‌کند که در نوار عنوان مرورگر نمایش داده می‌شود.
+
+تگ p : ایجاد یک پاراگراف
+
+```html
+<html>
+<head>
+    <title> HTML Page </title>
+</head>
+<body>
+    <h1>Hello World!!</h1>
+    <p> A Simple Paragrapgh</p>
+</body>
+</html>
+```
+
+
