@@ -7,7 +7,7 @@
 تگ body : در این تگ، محتوای اصلی صفحه (مثل متن، تصاویر، و ...) قرار می‌گیرد
 
 تگ title: این تگ عنوان (Title) صفحه را تعیین می‌کند که در نوار عنوان مرورگر نمایش داده می‌شود.
-
+ 
 تگ p : ایجاد یک پاراگراف
 
 ```html
@@ -41,3 +41,40 @@
 ![image](https://github.com/milad6745/HTML/assets/113288076/1d83451b-8793-4b95-8f06-d26a3298f6d3)
 
 
+## b بولد کردن متن
+```html
+<html>
+<head>
+    <title>Line Break Example</title>
+</head>
+<body>
+    <b>This is a paragraph It has a line break in the middle.</b>
+</body>
+</html>
+```
+
+## other tag
+```html
+<html>
+<head>
+    <title>Page HTML</title>
+</head>
+<body>
+    <b>This is bold</b>
+    <big>
+        this is big
+    </big>
+    <i>
+        this is italic
+    </i>
+    <small>
+        this is small
+    </small>
+    <strong>
+        this is strong
+    </strong>
+    
+</body>
+</html>
+```
+![image](https://github.com/milad6745/HTML/assets/113288076/0581fd32-95b0-4914-87ef-fe3443e03ef1)
