@@ -24,6 +24,18 @@
 ![image](https://github.com/milad6745/HTML/assets/113288076/88499dbd-d759-4164-9b99-698646cdcc69)
 
 
-
+## br
+بطور کلی، تگ <br> برای ایجاد یک شکستن خط (line break) در محتوای متنی یا در موارد دیگر مانند آدرس‌ها یا تاریخ‌ها استفاده می‌شود. در مثال زیر، می‌توانید نحوه استفاده از تگ <br> را ببینید:
+```html
+<html>
+<head>
+    <title>Line Break Example</title>
+</head>
+<body>
+    <p>This is a paragraph.<br>It has a line break in the middle.</p>
+</body>
+</html>
+```
+![image](https://github.com/milad6745/HTML/assets/113288076/1d83451b-8793-4b95-8f06-d26a3298f6d3)
 
 
