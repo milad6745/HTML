@@ -1,5 +1,5 @@
 # HTML LINK
-
+```html
 <html>
 <head>
     <title>Page HTML</title>
@@ -25,6 +25,7 @@
     </p>
 </body>
 </html>
+```
 
 ![image](https://github.com/milad6745/HTML/assets/113288076/fb8c74c2-da6d-4d8a-8b0e-a0dfb829ec76)
 
