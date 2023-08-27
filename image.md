@@ -1,4 +1,5 @@
 ## image 
+```html
 <html>
 <head>
     <title>Page HTML</title>
@@ -14,3 +15,7 @@
 
 </body>
 </html>
+```
+![image](https://github.com/milad6745/HTML/assets/113288076/538d422f-a469-424d-97af-93644cf617c4)
+
+
