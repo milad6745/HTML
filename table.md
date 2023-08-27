@@ -30,7 +30,7 @@
 در زیر نمونه‌ای از ایجاد جدول با حاشیه و رنگ حاشیه آمده است:
 
 ```html
-<table border="1" bordercolor="#ccc">
+<table border="1" bordercolor="#ccc" bgcolor="#ccc" width="30%" height="15%" align="center">
   <tr>
     <th>سرستون 1</th>
     <th>سرستون 2</th>
