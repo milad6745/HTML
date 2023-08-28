@@ -38,3 +38,22 @@
 ```
 
 ![image](https://github.com/milad6745/HTML/assets/113288076/343a3b0f-5dd8-461a-bd14-02588ad81cd1)
+
+## span
+سه تا قسمت مشخص کردیم
+قسمت اول بکگراند را آبی کردیم و نوسته سفید و وسط چیسن و با تگ span نوشته red را قرمز کردیم
+قسمت دوم هم بکگراند قرمز و یک لینک دادیم که قسمت click here را لینک دار و آبی کردیم.
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<div style="background-color: blue; color: white; height: 100px;" align="center">HEADER MY WEBSITE IS <span style="color: red;"> RED </span></div>
+<div style=" background-color: red ; height: 100px; color: white;" align="center">for information<span style="color: blue;"><a href="https://example.com">click HERE</a></div>
+<div>footer</div>
+
+</body>
+</html>
+```
+![image](https://github.com/milad6745/HTML/assets/113288076/f28b18e0-383d-4c9a-bf32-a68adb0a66b5)
+
