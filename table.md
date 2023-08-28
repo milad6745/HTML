@@ -30,24 +30,35 @@
 در زیر نمونه‌ای از ایجاد جدول با حاشیه و رنگ حاشیه آمده است:
 
 ```html
-<table border="1" bordercolor="#ccc" bgcolor="#ccc" width="30%" height="15%" align="center">
-  <tr>
-    <th>سرستون 1</th>
-    <th>سرستون 2</th>
-    <th>سرستون 3</th>
-  </tr>
-  <tr>
-    <td>مقدار 1</td>
-    <td>مقدار 2</td>
-    <td>مقدار 3</td>
-  </tr>
-  <tr>
-    <td>مقدار 4</td>
-    <td>مقدار 5</td>
-    <td>مقدار 6</td>
-  </tr>
-</table>
+<html>
+<head>
+    <title>Page HTML</title>
+</head>
+<body> 
+    <table border="1" bordercolor="#ccc" bgcolor="#ccc" width="30%" height="15%" align="center">
+        <tr align="center">
+          <th align="center" bgcolor="red">سرستون 1</th>
+          <th align="center" bgcolor="green">سرستون 2</th>
+          <th align="center" bgcolor="blue">سرستون 3</th>
+        </tr>
+        <tr>
+          <td align="center">مقدار 1</td>
+          <td>مقدار 2</td>
+          <td>مقدار 3</td>
+        </tr>
+        <tr>
+          <td>مقدار 4</td>
+          <td>مقدار 5</td>
+          <td>مقدار 6</td>
+        </tr>
+      </table>
+      
+</body>
+</html>
 ```
+
+![image](https://github.com/milad6745/HTML/assets/113288076/e76375e7-921e-4377-9b62-4417325e04d6)
+
 
 در این مثال، `border="1"` باعث ایجاد حاشیه با ضخامت 1 پیکسل می‌شود و `bordercolor="#ccc"` رنگ حاشیه را به خاکستری روشن تعیین می‌کند. `"bgcolor"` رنگ بک گراند تیبل را عوض میکند .
 
